@@ -10,7 +10,7 @@
 ---
 
 ### 📝 Sobre mim  
-Sou um **Desenvolvedor Back-end** com foco em **Python**, utilizando frameworks como **Django e Flask** para criar **APIs RESTful**, integrar bancos de dados relacionais e aplicar boas práticas de desenvolvimento.  
+Sou um **Desenvolvedor Back-end** com foco em **Python**, utilizando frameworks como **Django** para criar **APIs**, integrar bancos de dados relacionais e aplicar boas práticas de desenvolvimento.  
 
 Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNISUAM de forma presencial** e estou disponível para **oportunidades de estágio ou posições júnior** nos formatos **presencial, híbrido ou remoto**.  
 
@@ -24,7 +24,6 @@ Tenho formação em **Defesa Cibernética** e experiência como **Analista de Re
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) 
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
