@@ -12,9 +12,9 @@
 ### 📝 Sobre mim  
 Sou um **Desenvolvedor Back-end** com foco em **Python**, utilizando frameworks como **Django e Flask** para criar **APIs RESTful**, integrar bancos de dados relacionais e aplicar boas práticas de desenvolvimento.  
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNISUAM (presencial)** e estou disponível para **oportunidades de estágio ou posições júnior** nos formatos **presencial, híbrido ou remoto**.  
+Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNISUAM de forma presencial** e estou disponível para **oportunidades de estágio ou posições júnior** nos formatos **presencial, híbrido ou remoto**.  
 
-Tenho formação em **Defesa Cibernética** e experiência como **Analista de Redes**, o que me proporciona uma base sólida em **redes, protocolos, sistemas Linux/Windows e segurança da informação**.
+Tenho formação em **Defesa Cibernética** e experiência como **Analista de Redes**, com conhecimentos em **redes, protocolos, sistemas Linux/Windows e segurança da informação**.
 
 ---
 
