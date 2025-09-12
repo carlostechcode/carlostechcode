@@ -26,7 +26,10 @@ Tenho formação em **Defesa Cibernética** e experiência como **Analista de Re
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 </div>
@@ -37,11 +40,12 @@ Tenho formação em **Defesa Cibernética** e experiência como **Analista de Re
 
 <div align="center">
 
-  <img alt="GitHub Stats" height="170" style="display: inline-block; margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=carlostechcode&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br&hide_border=true" />
+  <img alt="GitHub Stats" height="170" style="display: inline-block; margin-right: 15px;" src="https://github-readme-stats.vercel.app/api?username=carlostechcode&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide_border=true" />
   
-  <img alt="Top Langs" height="170" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostechcode&theme=highcontrast&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true" />
+  <img alt="Top Langs" height="170" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostechcode&theme=github_dark&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true" />
 
 </div>
+
 
 
 <br clear="both" />
