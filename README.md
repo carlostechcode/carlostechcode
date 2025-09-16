@@ -4,7 +4,6 @@
 
 📚 **Cursando:** Análise e Desenvolvimento de Sistemas  
 🚀 **Foco:** Desenvolvimento Front-End, criação de interfaces web e aplicações interativas  
-
 🎯 **Objetivo:** Conseguir uma oportunidade como **estagiário em Front-End** e aplicar meus conhecimentos em projetos acadêmicos e pessoais  
 
 ---
