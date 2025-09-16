@@ -1,20 +1,16 @@
 # 👋 Olá! Eu sou Carlos Aguiar  
 
-**`Desenvolvedor Back-end | Python e Django`**  
+**`Desenvolvedor Front-End | HTML, CSS, JavaScript, React`**  
 
 📚 **Cursando:** Análise e Desenvolvimento de Sistemas  
-🚀 **Foco:** Desenvolvimento Back-end com Python, Django e APIs REST
+🚀 **Foco:** Desenvolvimento Front-End, criação de interfaces web e aplicações interativas  
 
-🎯 **Objetivo:** Conseguir uma oportunidade como **estagiário ou júnior em Back-end** e participar de projetos práticos que envolvam **Python e tecnologias web**
+🎯 **Objetivo:** Conseguir uma oportunidade como **estagiário em Front-End** e aplicar meus conhecimentos em projetos acadêmicos e pessoais  
 
 ---
 
 ### 📝 Sobre mim  
-Sou um **Desenvolvedor Back-end** com foco em **Python**, utilizando frameworks como **Django** para criar **APIs**, integrar bancos de dados relacionais e aplicar boas práticas de desenvolvimento.  
-
-Atualmente, curso **Análise e Desenvolvimento de Sistemas na UNISUAM de forma presencial** e estou disponível para **oportunidades de estágio ou posições júnior** nos formatos **presencial, híbrido ou remoto**.  
-
-Tenho formação em **Defesa Cibernética** e experiência como **Analista de Redes**, com conhecimentos em **redes, protocolos, sistemas Linux/Windows e segurança da informação**.
+Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em **Front-End**. Tenho conhecimentos em **HTML, CSS, JavaScript e React**, adquiridos por meio de projetos acadêmicos e pessoais. Busco uma oportunidade de estágio para desenvolver **interfaces web responsivas** e aprimorar minhas habilidades em um ambiente profissional.  
 
 ---
 
@@ -22,14 +18,12 @@ Tenho formação em **Defesa Cibernética** e experiência como **Analista de Re
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5) 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML/HTML5) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 </div>
 
