@@ -1,19 +1,17 @@
-# 👋 Olá! Eu sou Carlos Aguiar  
+# 💻 Carlos Aguiar - @carlostechcode
 
 **`Desenvolvedor Front-End | HTML, CSS, JavaScript, React`**  
 
-📚 **Cursando:** Análise e Desenvolvimento de Sistemas  
-🚀 **Foco:** Desenvolvimento Front-End, criação de interfaces web e aplicações interativas  
-🎯 **Objetivo:** Conseguir uma oportunidade como **estagiário em Front-End** e aplicar meus conhecimentos em projetos acadêmicos e pessoais  
+Cursando Análise e Desenvolvimento de Sistemas, com o objetivo de conquistar uma oportunidade de estágio em Front-End para aplicar e evoluir minhas habilidades no desenvolvimento de interfaces modernas e responsivas.
 
 ---
 
-### 📝 Sobre mim  
-Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em **Front-End**. Tenho conhecimentos em **HTML, CSS, JavaScript e React**, adquiridos por meio de projetos acadêmicos e pessoais. Busco uma oportunidade de estágio para desenvolver **interfaces web responsivas** e aprimorar minhas habilidades em um ambiente profissional.  
+#### 📝 Sobre mim  
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Front-End. Tenho experiência prática em HTML, CSS, JavaScript (ES6+) e React, aplicados em projetos acadêmicos e pessoais, incluindo consumo de APIs REST e criação de interfaces web responsivas. Possuo experiência como Analista de Redes, atuando em monitoramento, automação de processos e suporte técnico.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas  
+#### ⚙️ Tecnologias e Ferramentas  
 
 <div align="center">
 
@@ -28,7 +26,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em **Front
 
 ---
 
-### 📈 Estatísticas do GitHub  
+#### 📈 Estatísticas do GitHub  
 
 <div align="center">
 
@@ -44,5 +42,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em **Front
 
 ---
 
-### 🌐 Onde me encontrar 
+#### 🌐 Onde me encontrar 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlostechcode/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlostechcode) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlostechcode/)
