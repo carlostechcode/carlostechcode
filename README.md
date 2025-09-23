@@ -1,13 +1,7 @@
-# 💻 Carlos Aguiar
-
-**`Desenvolvedor Front-End React`**  
-
-Cursando Análise e Desenvolvimento de Sistemas, com o objetivo de conquistar uma oportunidade de estágio em Front-End para aplicar e evoluir minhas habilidades no desenvolvimento de interfaces modernas e responsivas.
-
----
+## Carlos Aguiar - @carlostechcode
 
 #### 📝 Sobre mim  
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Front-End. Tenho experiência prática em HTML, CSS, JavaScript (ES6+) e React, aplicados em projetos acadêmicos e pessoais, incluindo consumo de APIs REST e criação de interfaces web responsivas. Possuo experiência como Analista de Redes, atuando em monitoramento, automação de processos e suporte técnico.
+Sou graduado em Defesa Cibernética e atualmente estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web. Tenho experiência prática em HTML, CSS, JavaScript (ES6+) e React, aplicados em projetos acadêmicos e pessoais, incluindo consumo de APIs REST e criação de interfaces web responsivas. Possuo experiência como Analista de Redes, atuando em monitoramento, automação de processos e suporte técnico.
 
 ---
 
