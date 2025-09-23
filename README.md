@@ -1,6 +1,6 @@
-# 💻 Carlos Aguiar - @carlostechcode
+# 💻 Carlos Aguiar
 
-**`Desenvolvedor Front-End | HTML, CSS, JavaScript, React`**  
+**`Desenvolvedor Front-End React`**  
 
 Cursando Análise e Desenvolvimento de Sistemas, com o objetivo de conquistar uma oportunidade de estágio em Front-End para aplicar e evoluir minhas habilidades no desenvolvimento de interfaces modernas e responsivas.
 
